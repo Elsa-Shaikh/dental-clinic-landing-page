@@ -1,0 +1,4 @@
+minimumReleaseAgeExclude:
+  - '@next/*'
+  - next
+  - zod@4.6.2
